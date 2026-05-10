@@ -1,0 +1,17 @@
+{
+  "name": "Tosstoss",
+  "short_name": "Tosstoss",
+  "description": "Peer-to-peer clipboard and file transfer between devices.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFCF7",
+  "theme_color": "#F25C3F",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
